@@ -1,0 +1,13 @@
+# Generated during development
+/venv/
+/.idea/
+/.vscode/
+__pycache__/
+.coverage
+htmlcov/
+mypy-precision/
+/testing/
+# Build artifacts
+/build/
+/dist/
+/src/*.egg-info/
