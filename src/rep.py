@@ -10,4 +10,5 @@ def square(x) -> int:
     """
 
     sq = x**2
-    return sq
+    xx = sq + 1
+    return xx
