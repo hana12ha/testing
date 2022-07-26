@@ -1,4 +1,4 @@
-"""example1"""
+"""example"""
 
 
 def square(x) -> int:
@@ -11,4 +11,5 @@ def square(x) -> int:
 
     sq = x**2
     xx = sq + 1
-    return xx
+    v = xx+ sq
+    return v
