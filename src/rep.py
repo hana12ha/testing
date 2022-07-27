@@ -1,4 +1,4 @@
-"""goodnight"""
+"""hello from the other side"""
 
 
 def square(x) -> int:
@@ -9,5 +9,6 @@ def square(x) -> int:
         the square of number
     """
 
-    s = 33 + 2
+    s =2+2
+
     return s
