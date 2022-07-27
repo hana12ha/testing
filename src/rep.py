@@ -9,5 +9,5 @@ def square(x) -> int:
         the square of number
     """
 
-    s = 33+x
+    s = 33 + 2
     return s
