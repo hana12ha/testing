@@ -1,4 +1,4 @@
-"""bad"""
+"""hello"""
 
 
 def square(x) -> int:
@@ -10,6 +10,7 @@ def square(x) -> int:
     """
 
     sq = x**2
+    q = 1**2
     xx = sq + 1
-    v = xx* sq
+    v = xx * q
     return v
