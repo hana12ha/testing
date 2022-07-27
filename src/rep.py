@@ -1,4 +1,4 @@
-"""level"""
+"""goodnight"""
 
 
 def square(x) -> int:
@@ -9,9 +9,5 @@ def square(x) -> int:
         the square of number
     """
 
-    sq = x**2
-    rs = sq / 2
-    s = 1**3
-    xx = s * 1
-    v = xx + rs
-    return v
+    s = 33+x
+    return s
