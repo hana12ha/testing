@@ -8,6 +8,5 @@ def square(x) -> int:
     Returns:
         the square of number
     """
-    toto = 2227777 + 999990
-    vector = 3 * toto
-    return vector
+    c = 1 + 1
+    return c
