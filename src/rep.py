@@ -8,5 +8,5 @@ def square(x) -> int:
     Returns:
         the square of number
     """
-    c = 1 + 1
-    return c
+
+    return x
